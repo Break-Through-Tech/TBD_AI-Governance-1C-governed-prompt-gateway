@@ -41,7 +41,7 @@ This project offers a compelling real-world application of AI governance. To suc
 # Governed Prompt Gateway: Token Efficient and safety aware LLM routing for regulated customer
 
 **Company / Org:** Other  
-**Challenge Advisor:** Hari Kishan KV, harikishan1180@gmail.com  
+**Challenge Advisor:** Bhavana Unnam, [Email address]    
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
 ---
