@@ -114,9 +114,10 @@ Use these milestones to guide your work. Your team will create a GitHub Projects
 **Location:** Hosted on HuggingFace Datasets  
 
 ### Key Details
-- Publicly available customer-service, insurance question answering, toxic prompt, jailbreak, and hallucination datasets.
-- Preprocessing must address the heterogeneity of inputs; normalization of schema formats is required to create a unified training set for the governance classifier.
-
+- [Brief description of what's in the data]
+- [Any known limitations or preprocessing needed]
+- [Link to data dictionary or documentation, if available]
+  
 ---
 
 ## 🛠️ Suggested Approach
