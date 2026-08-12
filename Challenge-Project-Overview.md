@@ -43,6 +43,8 @@ This project offers a compelling real-world application of AI governance. To suc
 **Company / Org:** Other  
 **Challenge Advisor:** Bhavana Unnam, [Email address]    
 **Program:** Break Through Tech AI Studio - Fall 2026  
+**AI Studio Coach:** Om Kamath, om.kamath@breakthroughtech.org
+
 
 ---
 
